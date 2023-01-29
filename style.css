@@ -1,0 +1,49 @@
+body{
+    background-color: #303030;
+    color: #ffffff;
+}
+
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle{
+    background-color: green;
+    width: 980px;
+    margin: 10px;
+}
+
+.square{
+    width: 480px;
+    float: left;
+    background-color: red; 
+    margin: 10px;
+    height: 300px;
+}
+
+#logo{
+    font-size: 54px;
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+#timer{
+    font-size: 54px;
+    float: left;
+    padding: 20px;
+}
+
+.title1{
+    width: 45%;
+    padding: 5px;
+    margin: 5px;
+    float: left;
+    background-color: blue;
+}
+
+.title2{
+    width: 50%;
+}

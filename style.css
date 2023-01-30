@@ -44,6 +44,10 @@ body{
    text-align: center;
 }
 
+.title1:hover{
+    background-color: #2085c3;
+}
+
 .title2{
     margin: 10px;
     width: 230px;
@@ -53,6 +57,10 @@ body{
     text-align: center;
 }
 
+.title2:hover{
+    background-color: #555555;
+}
+
 .title3{
     margin: 10px;
     width: 230px;
@@ -60,6 +68,10 @@ body{
     background-color: #93c748;
     float: left;
     text-align: center;
+}
+
+.title3:hover{
+    background-color: #82b637;
 }
 
 .title4{
@@ -87,12 +99,20 @@ body{
     float: left;
 }
 
+.yt:hover{
+    background-color: #c83237;
+}
+
 .fb{
     margin: 10px;
     width: 105px;
     height: 142px;
     background-color: #4668b3;
     float: left;
+}
+
+.fb:hover{
+    background-color: #3557a2;
 }
 
 .gp{
@@ -103,6 +123,10 @@ body{
     float: left;
 }
 
+.gp:hover{
+    background-color: #b84222;
+}
+
 .tw{
     margin: 10px;
     width: 105px;
@@ -111,13 +135,43 @@ body{
     float: left;
 }
 
+.tw:hover{
+    background-color: #2074c2;
+}
+
 #text{
     margin: 10px;
     width: 980px;
-    height: 304px;
+    height: 142px;
     background-color:#4668b3;
+    text-align: center;
 }
 
 img{
     padding: 10px;
+}
+
+h3{
+    padding-top: 15px;
+}
+
+a.tilelink{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+   height: 142px;
+}
+
+a.social{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
+
+a.titlelinkhtml{
+    color: #ffffff;
+    text-decoration: none;
 }
